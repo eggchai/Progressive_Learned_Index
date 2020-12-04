@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCATCH_BUILD_TESTING=OFF;-DCMAKE_BUILD_TYPE=Release;-DCMAKE_CXX_COMPILER=/bin/g++-9;-DCMAKE_C_COMPILER=/bin/gcc-9;-DCMAKE_INSTALL_PREFIX=/home/chen/CLionProjects/ProgressiveIndexing/deps;-GUnix Makefiles;<SOURCE_DIR><SOURCE_SUBDIR>'

@@ -1,0 +1,72 @@
+[
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIE   -std=gnu++11 -o CMakeFiles/measure.dir/scripts/cost_model/measure.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/scripts/cost_model/measure.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/scripts/cost_model/measure.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIE   -std=gnu++11 -o CMakeFiles/generate_column.dir/src/generate/generate_column.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/generate/generate_column.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/generate/generate_column.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIE   -std=gnu++11 -o CMakeFiles/generate_workload.dir/src/generate/generate_workload.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/generate/generate_workload.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/generate/generate_workload.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIE   -std=gnu++11 -o CMakeFiles/main.dir/src/main.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/main.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/main.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/util/file_manager.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/util/file_manager.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/util/file_manager.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/util/binary_search.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/util/binary_search.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/util/binary_search.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/util/hybrid_radix_insert_sort.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/util/hybrid_radix_insert_sort.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/util/hybrid_radix_insert_sort.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_quicksort.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_quicksort.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_quicksort.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_bucketsort_equiheight.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_bucketsort_equiheight.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_bucketsort_equiheight.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_radixsort_lsd.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_lsd.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_lsd.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_radixsort_msd.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_msd.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_msd.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_radixsort_msd_noquick.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_msd_noquick.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_radixsort_msd_noquick.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build",
+  "command": "/bin/g++-9    -g -fPIC   -std=gnu++11 -o CMakeFiles/PI_lib.dir/src/progressive/progressive_indexing.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_indexing.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/src/progressive/progressive_indexing.cpp"
+},
+{
+  "directory": "/home/chen/CLionProjects/ProgressiveIndexing/build/test",
+  "command": "/bin/g++-9   -I/home/chen/CLionProjects/ProgressiveIndexing/deps/include/catch2  -g -fPIE   -std=gnu++11 -o CMakeFiles/tests.dir/test.cpp.o -c /home/chen/CLionProjects/ProgressiveIndexing/test/test.cpp",
+  "file": "/home/chen/CLionProjects/ProgressiveIndexing/test/test.cpp"
+}
+]

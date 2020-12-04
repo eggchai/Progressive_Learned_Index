@@ -1,0 +1,57 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+Makefile
+ProgressiveIndexing.cbp
+answer
+cmake-build-debug/
+cmake_install.cmake
+generate_column
+generate_workload
+generated_data/
+query
+.idea/
+CMakeCache.txt
+CMakeFiles/
+main
+measure
+*DS_Store*
+ResultsCSV/
+src/include/progressive/constants.h
+real_data/
+column
+results.db
+test/catch2-prefix/
+test/tests
+
+deps/
